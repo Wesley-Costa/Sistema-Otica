@@ -1,0 +1,11 @@
+1;Dourada;9;Aviador;Annete;Alumínio;G;150.0;1;9;1;Vidro;Comum;89.0;249.0
+1;Dourada;8;Aviador;Annete;Alumínio;G;150.0;1;8;1;Vidro;Comum;89.0;249.0
+1;Dourada;7;Aviador;Annete;Alumínio;G;150.0;3;9;2.8;Acrílica;Retangular;230.0;380.0
+1;Dourada;6;Aviador;Annete;Alumínio;G;150.0;2;9;1.75;Vidro;Comum;98.0;258.0
+1;Dourada;5;Aviador;Annete;Alumínio;G;150.0;2;8;1.75;Vidro;Comum;98.0;258.0
+1;Dourada;4;Aviador;Annete;Alumínio;G;150.0;2;9;1.75;Acrílico;Transition;280.0;440.0
+1;Dourada;3;Aviador;Annete;Alumínio;G;150.0;1;9;2.75;Vidro;Comum;280.0;440.0
+1;Dourada;2;Aviador;Annete;Alumínio;G;150.1;1;8;2.75;Vidro;Comum;280.0;440.1
+2;Dourada;9;Retangular;Carrera;Metal;G;280.0;1;7;2.75;Vidro;Comum;280.0;570.0
+55;vermelho;0;quadrado;rai ban;aço;g;1200.0;55;0;30;vidro;miopia leve;1200.0;2410.0
+1;Dourada;1;Aviador;Annete;Alumínio;G;150.1;1;6;2.75;Vidro;Comum;280.0;440.1

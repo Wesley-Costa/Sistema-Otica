@@ -1,0 +1,4 @@
+2;Maria dos Santos;Feminino;222.222.222-22;22/22/2222;22.222.222-22;22.222-222;Logradouro;2;Bairro;casa;Cidade;BA;30.0;1000.0
+3;João de Souza;Masculino;333.333.333-33;33/33/3333;33.333.333-33;33.333-333;Logradouro;3;Bairro;Complemento;Cidade;BA;30.0;1000.0
+1;José da Silva;Masculino;111.111.111-11;11/11/1111;11.111.111-11;11.111-111;logradouro;1;bairro;casa;cidade;BA;30.0;1000.0
+4;Wesley Costa;Masculino;444.444.444-44;44/44/4444;44.444.444-44;44.444-444;Logradouro;4;Bairro;Casa;Cidade;BA;10.0;1000.0

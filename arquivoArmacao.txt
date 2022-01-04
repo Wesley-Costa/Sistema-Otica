@@ -1,0 +1,4 @@
+3;Preta;10;Quadrado;Bulget;Plástico;G;230.0
+2;Dourada;9;Retangular;Carrera;Metal;G;280.0
+55;vermelho;0;quadrado;rai ban;aço;g;1200.0
+1;Dourada;1;Aviador;Annete;Alumínio;G;150.1

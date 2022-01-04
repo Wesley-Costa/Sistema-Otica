@@ -1,0 +1,6 @@
+2;10;275;Acrílico;Transition;290.0
+6;5;2;Acrílico;Transition;200.0
+4;10;3.25;Acrílico;Anti Reflexo;250.0
+3;21;0.75;Vidro;Comum;90.0
+55;0;30;vidro;miopia leve;1200.0
+1;6;2.75;Vidro;Comum;280.0
